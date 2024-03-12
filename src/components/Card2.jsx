@@ -25,7 +25,7 @@ function Card2() {
 
 })}
     
-    <div className="col-md-4 mb-5">
+    <div className="col-md-4 mb-5"  data-aos="fade-up">
     <div className="card" style={{width: '18rem'}}>
   <img src={PicA} className="card-img-top" alt="..."/>
   <div className="card-body">
@@ -36,7 +36,7 @@ function Card2() {
 </div>
     </div>
 
-    <div className="col-md-4 mb-5">
+    <div className="col-md-4 mb-5"  data-aos="fade-up">
     <div className="row" style={{width: '18rem'}}>
   <img src={PicB} className="card-img-top" alt="..."/> 
   <div className="card-body"> 
@@ -47,7 +47,7 @@ function Card2() {
 </div>
     </div>
 
-    <div className="col-md-4 mb-5">
+    <div className="col-md-4 mb-5"  data-aos="fade-up">
     <div className="card" style={{width: '18rem'}}>
   <img src={PicC} className="card-img-top" alt="..."/>
   <div className="card-body">
@@ -58,7 +58,7 @@ function Card2() {
 </div>
     </div>
 
-    <div className="col-md-4 mb-5">
+    <div className="col-md-4 mb-5"  data-aos="fade-up">
     <div className="row" style={{width: '18rem'}}>
   <img src={Pic4} className="card-img-top" alt="..."/> 
   <div className="card-body"> 
@@ -70,7 +70,7 @@ function Card2() {
     </div>
 
 
-    <div className="col-md-4 mb-5">
+    <div className="col-md-4 mb-5"  data-aos="fade-up">
     <div className="row" style={{width: '18rem'}}>
   <img src={Pic5} className="card-img-top" alt="..."/> 
   <div className="card-body"> 
@@ -82,7 +82,7 @@ function Card2() {
     </div>
 
 
-    <div className="col-md-4 mb-5">
+    <div className="col-md-4 mb-5"  data-aos="fade-up">
     <div className="row" style={{width: '18rem'}}>
   <img src={Pic6} className="card-img-top" alt="..."/> 
   <div className="card-body"> 
