@@ -5,7 +5,7 @@ import Form from './Form'
 function Contact() {
   return (
     <>
-<div className="bg-cover">
+<div className="cover">
   <div className="text-center text-light">
     <h1 className='pt-5' >Contact</h1>
     <p>Home <i class="fa fa-arrow-right ms-3 me-3"></i> Contact</p>

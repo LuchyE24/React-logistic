@@ -5,7 +5,7 @@ import Form2 from './Form2'
 function Tracking() {
   return (
     <>
-<div className="bg-cover">
+<div className="cover">
   <div className="text-center text-light">
     <h1 className='pt-5' >Tracking</h1>
     <p>Home <i class="fa fa-arrow-right ms-3 me-3"></i> Tracking</p>
