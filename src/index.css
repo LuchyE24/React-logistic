@@ -32,7 +32,7 @@ h2{
 }
 
 .cover{
-  background: url('./assets/Rectangle\ cover.png');
+  background: url('../src/assets/Rectangle\ cover.png');
   background-position: center;
   background-repeat: no-repeat;
   height: 196px;
