@@ -18,7 +18,7 @@ function Header() {
           <a className="nav-link active text-danger" aria-current="page" href="/">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-dark" href="/service">Service</a>
+          <a className="nav-link text-dark" href="/services">Services</a>
         </li>
         
         <li className="nav-item">
